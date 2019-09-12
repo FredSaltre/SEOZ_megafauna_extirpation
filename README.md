@@ -15,9 +15,11 @@ These scripts require the following associated function: "Genpop(gradient).r" fo
 
 Included an example of Matlab script to map the timing of extinction and arrival and calculate the bearing of each: "Megafauna_analyses.m"
 
-Finally, two examples of scripts are included to construct and compared generalized least-squares models 
+Two examples of scripts are included to construct and compared generalized least-squares models 
 to determine which predictor among the climate variables and initial human colonization best described spatial variation in the bearing of megafauna extirpations.
 (1) script to analyse in CLimate only areas: ScriptGLS_Bearing(Climateonly).r
 (2) script to analyse in Climate-Human areas: ScriptGLS_Bearing(HumanClimate).r
+
+the excel file "SourceData_Figs3 -SI4-SI5(Saltre_etal).xlsx" contains the full distribution of values underlying all reported averages in graphs and charts of Fig. 3 and Supplementary Figs 4 & 5
 
 F Saltre Flinders University frederik.saltre@flinders.edu.au January 2019
